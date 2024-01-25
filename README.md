@@ -1,3 +1,8 @@
+Note(Josue Crandall 1/25/2024):
+  This is from: https://github.com/banach-space/llvm-tutor
+  Taken for use in CS201. It's MIT licensed so I hope there's no issues.
+  Reason for placing this in like this instead of simply pointing at the other repo is to hopeuflly avoid changing github classroom settings.
+
 llvm-tutor
 =========
 [![Build Status](https://github.com/banach-space/llvm-tutor/workflows/x86-Ubuntu/badge.svg?branch=main)](https://github.com/banach-space/llvm-tutor/actions?query=workflow%3Ax86-Ubuntu+branch%3Amain)
